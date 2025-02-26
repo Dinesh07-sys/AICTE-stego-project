@@ -1,5 +1,5 @@
 # AICTE-stego-project
-This project focuses on STEGANAGRAPHY, The art of hiding information within the digital media.
+This project focuses on STEGANOGRAPHY, The art of hiding information within the digital media.
 Using advanced encoding techniques, it allows secure data concealment in images, audio, or text, making communication more private and undetectable
 
 # Features
