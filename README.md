@@ -1,2 +1,3 @@
 # AICTE-stego-project
-This
+This project focuses on STEGANAGRAPHY, The art of hiding information within the digital media.
+using
